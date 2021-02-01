@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
 	"dev": "p5 s",
-	"start": "p5 s -p $PORT"
+	"start": "p5 s"
   },
   "repository": {
     "type": "git",
