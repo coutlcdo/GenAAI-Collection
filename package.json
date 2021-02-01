@@ -1,0 +1,24 @@
+{
+  "name": "GenAAI_projs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"dev": "p5 s",
+	"start": "p5 s -p $PORT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coutlcdo/GenAAI-Collection.git"
+  },
+  "keywords": [],
+  "author": "Lucas Coutinho (https://github.com/coutlcdo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coutlcdo/GenAAI-Collection/issues"
+  },
+  "homepage": "https://github.com/coutlcdo/GenAAI-Collection#readme",
+  "dependencies": {
+    "p5-manager": "^0.4.3"
+  }
+}

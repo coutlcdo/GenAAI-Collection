@@ -1,3 +1,4 @@
 .p5rc
 
 libraries/
+node_modules
